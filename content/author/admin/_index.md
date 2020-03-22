@@ -63,6 +63,16 @@ user_groups = []
   link = "mailto:hi@anap.dev"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/anapcwb"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://uk.linkedin.com/in/apaula-santos"
+
+[[social]]
   icon = "twitter"
   icon_pack = "fab"
   link = "https://twitter.com/Aninhaaac"
@@ -71,11 +81,6 @@ user_groups = []
   icon = "instagram"
   icon_pack = "fab"
   link = "https://instagram.com/anapcwb"
-
-[[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/anapcwb"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
